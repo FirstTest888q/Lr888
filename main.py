@@ -6,7 +6,7 @@ def input_valid():
             break
         print("Неверное число, попробуйте другое")
         return x
-
+    
 def x2(x):
     pass
 
